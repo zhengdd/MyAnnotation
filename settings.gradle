@@ -1,0 +1,2 @@
+include ':app', ':AnnotationLib', ':ProcessLib'
+rootProject.name='MyAnnotation'
